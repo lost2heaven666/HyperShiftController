@@ -130,7 +130,7 @@ WPF地獄に何度も心を折られ
 ちなみに
 金蛇神社のおみくじでは
 【大大吉】が出ました
-
+![おみくじ 大大吉](images/omikuji.png)
 内容は
 ――
 光輝く大勢運
@@ -171,7 +171,7 @@ USBケーブルも壊れる
 このおみくじが本当だったという
 証明になるのかもしれませんねｗ
 
-🇺🇸 English Version
+ーーーーーーーーーーーーーーーーーーーー
 
 The reason I started making this app
 was because I had been using a Razer mouse
