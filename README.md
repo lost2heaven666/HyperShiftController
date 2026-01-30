@@ -1,3 +1,38 @@
+## Screenshots
+
+**Normal → F13 output example** (red frame = unsaved changes)  
+![Normal mapping example](docs/01_normal.png)
+
+**HyperShift layer** (HS key = F13 / L1 mapped on HS layer)  
+![HyperShift layer example](docs/02_hypershift.png)
+
+<details>
+<summary>More screenshots</summary>
+
+![Settings](docs/03_settings.png)
+![Pad Labels (aliasing)](docs/04_padlabels.png)
+![HS HUD settings / preview](docs/05_hshud.png)
+![HS Display Name (labels / combo)](docs/06_displayname.png)
+
+</details>
+
+
+## Quick Start (JP)
+1. zipを展開して `HyperShiftController.exe` を起動
+2. Settingsで必要なら **XInput / HID** をON
+3. `HS key (F1–F24)` を設定（例: F13）
+4. Normal / HyperShift それぞれで割り当てを設定
+5. 右下の **Save** を押して保存（未保存の項目は枠が変わる）
+
+## Quick Start (EN)
+1. Unzip and run `HyperShiftController.exe`
+2. Enable **XInput / HID** if needed (Settings)
+3. Set `HS key (F1–F24)` (e.g., F13)
+4. Configure mappings for Normal / HyperShift
+5. Click **Save** (unsaved items are highlighted)
+
+
+
 # HyperShiftController
 
 このアプリを作るきっかけになったのは
